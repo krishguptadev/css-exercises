@@ -3,12 +3,12 @@
   color: hsl(0, 100%, 50%);
 }
 
-.small-para {
-  font-size: 12px;
-}
-
 .para {
   font-size: 22px;
+}
+
+.small-para {
+  font-size: 12px;
 }
 
 .confirm {
@@ -30,6 +30,18 @@
 }
 
 div.text {
-  color: green;
+  color: #008000;
   font-size: 28px;
+}
+
+#confirm-button {
+  background: #008000;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.text .child {
+  color: red;
+  font-size: 14px;
 }
